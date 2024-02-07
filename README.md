@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayneflores
 - 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning Java With Springboot and MongoDb
+- 🌱 I’m currently Developing Java With Springboot and MongoDb
 - 💞️ I’m looking to collaborate on Big Development Projects
 - 📫 How to reach me raynitoflores@gmail.com
 
